@@ -5,6 +5,7 @@
     <h3>You can reach to me through</h3>
     <a href='https://t.me/prateekdubey' target="_blank"><img src="media/telegram.png" width="40"></a>&nbsp;&nbsp;
     <a href='https://www.linkedin.com/in/pratieklndubey/' target="_blank"><img src="media/linkedin.png" width="40"></a>&nbsp;&nbsp;
+    <a href='https://twitter.com/pratieklndubey' target="_blank"><img src="media/twitter.png" width="40"></a>&nbsp;&nbsp;
     <a href='https://github.com/pratieklndubey/pratieklndubey/issues/new' target="_blank"><img src="media/github.png" width="40"></a><br>
     <h3>or</h3>
     <h3>You can mail me on <a href = "mailto:pratieklndubey@gmail.com">pratieklndubey@gmail.com</a></h3>
