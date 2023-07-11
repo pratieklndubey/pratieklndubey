@@ -3,8 +3,9 @@
     <h3>I am <b>Prateek Dubey</b> and I like to code.</h3>
     <p>Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.</p>
     <h3>You can reach to me through</h3>
-    <a href='https://t.me/prateekdubey' target="_blank"><img src="media/telegram.png" width="40"></a>&nbsp;&nbsp;
+    <a href='https://t.me/pratieklndubey' target="_blank"><img src="media/telegram.png" width="40"></a>&nbsp;&nbsp;
     <a href='https://www.linkedin.com/in/pratieklndubey/' target="_blank"><img src="media/linkedin.png" width="40"></a>&nbsp;&nbsp;
+    <a href='https://twitter.com/pratieklndubey' target="_blank"><img src="media/twitter.png" width="40"></a>&nbsp;&nbsp;
     <a href='https://github.com/pratieklndubey/pratieklndubey/issues/new' target="_blank"><img src="media/github.png" width="40"></a><br>
     <h3>or</h3>
     <h3>You can mail me on <a href = "mailto:pratieklndubey@gmail.com">pratieklndubey@gmail.com</a></h3>
@@ -25,7 +26,7 @@
     <img src="media/nodejs.png" width="40">
     <br><br>
     <h3>I am currently learning</h3>
-    <img src="media/rust.png" width="40">
+    <img src="media/golang.png" width="50">
     <img src="media/aws.png" width="40">
     <img src="media/react.png" width="40">
     <img src="media/firebase.png" width="40">
